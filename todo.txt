@@ -1,0 +1,9 @@
+# To Complete:
+ - Blender Anvil
+ - Server Login
+ - Blender Self-Directed
+ - Blender Model #1
+ - Blender Model #2
+ - Fix python Calc program
+ - Calender Python Program
+ - Linux Challenge #1 - Optional
